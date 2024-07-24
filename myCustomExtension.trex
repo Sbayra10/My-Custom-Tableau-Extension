@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtensionManifest xmlns="http://tableau.com/xml/ns/extension" version="1.0">
+  <Extension id="MyCustomExtension" version="1.0">
+    <Name>My Custom Tableau Extension</Name>
+    <Description>Bu, örnek bir Tableau uzantısıdır.</Description>
+    <Vendor>
+      <Name>Sezer BAYRAKi</Name>
+      <Email>sezeray_bayrak@iculod.com</Email>
+      <Url>http://www.example.com</Url>
+    </Vendor>
+    <Source location="http://localhost:8080/index.html"/>
+  </Extension>
+</ExtensionManifest>
